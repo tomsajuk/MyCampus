@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">My Campus</string>
+    <string name="hello">Hello</string>
+    <string name="night_out">Night Out/Leave</string>
+    <string name="out_pass">OutPass</string>
+    <string name="notice">Notice Board</string>
+    <string name="order">Place an Order</string>
+    <string name="name">Name:</string>
+    <string name="branch">Branch:</string>
+    <string name="year">Year:</string>
+    <string name="regn_no">Regn No:</string>
+    <string name="hostel">Hostel:</string>
+    <string name="going">Going To:</string>
+    <string name="time">Time:</string>
+    <string name="date">Date:</string>
+    <string name="send">Send</string>
+    <string name="reason">For:</string>
+    <string name="pick_date">Pick A Date</string>
+    <string name="show_date">%1$s/%2$s/%3$s</string>
+    <string name="from_time">From </string>
+    <string name="to_time">To</string>
+    <string name="show_time">%1$s:%2$s</string>
+    <string name="heading">Notice heading</string>
+    <string name="description">The notice description</string>
+    <string name="issued">Issued By</string>
+
+    <string-array name="Year">
+        <item>FE</item>
+        <item>SE</item>
+        <item>TE</item>
+        <item>BE</item>
+    </string-array>
+
+    <string-array name="Branch">
+        <item>ASGE</item>
+        <item>EnTC-A</item>
+        <item>EnTC-B</item>
+        <item>COMP</item>
+        <item>MECH</item>
+        <item>IT</item>
+    </string-array>
+    
+    <string-array name="Hostel">
+        <item>NBH1</item>
+        <item>NBH2</item>
+        <item>OBH</item>
+        <item>GH</item>
+    </string-array>
+
+    <string-array name="Flank">
+        <item>NA</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+
+</resources>
