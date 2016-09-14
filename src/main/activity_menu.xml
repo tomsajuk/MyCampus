@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:theme="@style/AppTheme"
+    tools:context="com.ait_pro.tsk.mycampus.Menu">
+
+    <TextView
+        android:id="@+id/night"
+        style="@style/CategoryStyle"
+        android:background="@color/category_night"
+        android:text="@string/night_out" />
+
+    <TextView
+        android:id="@+id/pass"
+        style="@style/CategoryStyle"
+        android:background="@color/category_pass"
+        android:text="@string/out_pass" />
+
+    <TextView
+        android:id="@+id/notice"
+        style="@style/CategoryStyle"
+        android:background="@color/category_notice"
+        android:text="@string/notice" />
+
+    <TextView
+        android:id="@+id/order"
+        style="@style/CategoryStyle"
+        android:background="@color/category_order"
+        android:text="@string/order" />
+
+
+</LinearLayout>
